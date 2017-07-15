@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "941888590835",
+    "firebase_url": "https://chatapp-40e7a.firebaseio.com",
+    "project_id": "chatapp-40e7a",
+    "storage_bucket": "chatapp-40e7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941888590835:android:a39a30952937d274",
+        "android_client_info": {
+          "package_name": "com.sivanta.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941888590835-tjmdlh3qhgmgpb2cirflquqffh2apmsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sivanta.chatapp",
+            "certificate_hash": "c6f0ea769af0f06f076912873a2a33d0d9f493fc"
+          }
+        },
+        {
+          "client_id": "941888590835-vht0dpo1mu8iog8rrdid08ut58uii2ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTbrmo0HOuZhdLGS9VfPqrqblhwJ67Wyc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941888590835-vht0dpo1mu8iog8rrdid08ut58uii2ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
